@@ -117,7 +117,7 @@ var osc1;
 var osc1_amp = ac.createGain();
 
 // main
-osc1_amp.gain.value = 0.1;
+osc1_amp.gain.value = 0.2;
 
 // lfo
 var osc2 = ac.createOscillator();
