@@ -1,0 +1,16 @@
+{
+  "name": "wk4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "livereloadx": "^0.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "livereloadx -s -p 3000 ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
